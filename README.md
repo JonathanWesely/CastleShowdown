@@ -1,2 +1,2 @@
 # CastleShowdown
-Now that I understand Git, I am making a new project from scratch for my CastleWars game, hopefully I am able to confidentally make changes to the game without fear of messing things up
+Now that I understand Git, I am making a new project from scratch for my CastleWars game, hopefully I am able to confidentally make changes to the game without fear of messing things up. To those that have wondered here, I have yet to upload the files from my local copy to GitHub because apparently they take up too much space. I think there is a workaround using Git LFS. I'll figure it out when I need to.
